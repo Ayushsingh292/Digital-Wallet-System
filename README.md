@@ -36,7 +36,7 @@ A secure and extensible backend system for a digital wallet platform, built usin
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (via Mongoose)
